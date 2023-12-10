@@ -8,7 +8,7 @@
 5.Create a database name : ContactList
 
  5.1. Created one table : [ContactList]
------------------------------------------------------------------------------
+
 USE [ContactList]
 GO
 
@@ -20,16 +20,25 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 CREATE TABLE [dbo].[ContactList](
+
 	[ContactId] [int] IDENTITY(1,1) NOT NULL,
+ 
 	[Name] [nvarchar](100) NOT NULL,
+ 
 	[Email] [nvarchar](100) NOT NULL,
+ 
 	[PhoneNumber] [nvarchar](100) NOT NULL,
+ 
 	[Category] [nvarchar](100) NOT NULL,
+ 
 	[Birthdate] [datetime] NULL,
+ 
 	[Status] [int] NULL
+ 
 ) ON [PRIMARY]
+
 GO
----------------------------------------------------------
+
 
 5. Run through postman
      - Basic authentication is needed.
