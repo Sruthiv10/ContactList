@@ -5,15 +5,27 @@
 2.Refer class libraries for application layer, service layer and infrastructure layer
 
 3. Set ContactList.API as startup project
+5.Create a database name : ContactList
 
-4. Run through postman
+ 5.1. Created one table : [ContactList]
+
+ Column_name	Type	Computed	Length	Prec	Scale	Nullable	TrimTrailingBlanks	FixedLenNullInSource	Collation
+ContactId	int	no	4	10   	0    	no	(n/a)	(n/a)	NULL
+Name	nvarchar	no	200	     	     	no	(n/a)	(n/a)	SQL_Latin1_General_CP1_CI_AS
+Email	nvarchar	no	200	     	     	no	(n/a)	(n/a)	SQL_Latin1_General_CP1_CI_AS
+PhoneNumber	nvarchar	no	200	     	     	no	(n/a)	(n/a)	SQL_Latin1_General_CP1_CI_AS
+Category	nvarchar	no	200	     	     	no	(n/a)	(n/a)	SQL_Latin1_General_CP1_CI_AS
+Birthdate	datetime	no	8	     	     	yes	(n/a)	(n/a)	NULL
+Status	int	no	4	10   	0    	yes	(n/a)	(n/a)	NULL
+
+5. Run through postman
      - Basic authentication is needed.
 
         username = "TestUser"
 
        Password = "P@ssw0rd"
         
-5. APIs
+6. APIs
    
    5.1 . Create Contact
 
