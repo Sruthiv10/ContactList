@@ -8,14 +8,18 @@
 
 4. Run through postman
      - Basic authentication is needed.
+
         username = "TestUser"
-        Password = "P@ssw0rd"
+
+       Password = "P@ssw0rd"
         
 5. APIs
    
    5.1 . Create Contact
-         url : https://localhost:44308/api/ContactList
-         body : {
+
+            url : https://localhost:44308/api/ContactList
+
+            body : {
                   "name": "string",
                   "email": "user@example.com",
                   "phoneNumber": "string",
@@ -32,7 +36,8 @@
           
     5.4. Update contact
          url : https://localhost:44308/api/ContactList
-          body : {
+
+           body : {
                   "contactId": "string",
                   "name": "string",
                   "email": "user@example.com",
