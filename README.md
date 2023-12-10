@@ -47,7 +47,10 @@
                   "status": 0
                 }
 
-     5.5. get by page 
+     5.5. get by page
+   
           url : https://localhost:44308/api/ContactList/GetByPage?PageNumber={id}&RowCount={id}&SearchText={id}&SortColumns={columnName}&SortDirection={ASC/DESC}
-     5.6. Delete contact
+
+    5.6. Delete contact
+   
           url : https://localhost:44308/api/ContactList/{id}
