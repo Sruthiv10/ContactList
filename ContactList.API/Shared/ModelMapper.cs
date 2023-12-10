@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using AutoMapper;
 using ContactList.Application.DTO;
 using ContactList.Application.Models;
 using ContactList.Core.Entities;
@@ -21,8 +20,9 @@ namespace ContactList.API.Shared
             CreateMap<ContactListCreateModel, ContactListDTO>().ReverseMap();
             CreateMap<ContactListEditModel, ContactListDTO>().ReverseMap();
             CreateMap<ContactListViewModel, ContactListDTO>().ReverseMap();
-            CreateMap<ExecuteResult<IEnumerable<ContactListDTO>>, ExecuteResult<IEnumerable<ContactListViewModel>>>()
+            CreateMap<ExecuteResult<ContactListDTO>, ExecuteResult<ContactListViewModel>>()
            .ForMember(dest => dest.Results, opt => opt.MapFrom(src => src.Results));
+            
 
         }
     }

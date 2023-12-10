@@ -8,6 +8,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System;
+using Microsoft.AspNetCore.Identity;
 
 namespace ContactList.API.Shared
 {
@@ -16,9 +18,7 @@ namespace ContactList.API.Shared
         public EntityMapper()
         {
 
-            CreateMap<ContactListEntity, ContactListDTO>().ReverseMap();
-            CreateMap<ExecuteResult<ContactListEntity>, ExecuteResult<ContactListDTO>>()
-            .ForMember(dest => dest.Results, opt => opt.MapFrom(src => src.Results));
+            CreateMap<ContactListDTO, ContactListEntity>().ReverseMap();            
 
 
         }

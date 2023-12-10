@@ -64,3 +64,81 @@
 2023-12-11 03:42:32.5840 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
 2023-12-11 03:42:32.6049 Info Configuration initialized.
 2023-12-11 03:42:34.0918 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 03:55:01.4979 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 03:55:01.5278 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 03:55:01.5603 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 03:55:01.6003 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 03:55:01.6263 Info Configuration initialized.
+2023-12-11 03:55:02.9659 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 04:40:43.6812 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 04:40:43.7058 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 04:40:43.7334 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 04:40:43.7712 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 04:40:43.7918 Info Configuration initialized.
+2023-12-11 04:40:45.5883 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 04:44:48.5268 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 04:44:48.5513 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 04:44:48.5815 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 04:44:48.6136 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 04:44:48.6326 Info Configuration initialized.
+2023-12-11 04:44:50.0331 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 04:49:22.8325 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 04:49:22.8584 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 04:49:22.8951 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 04:49:22.9351 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 04:49:22.9542 Info Configuration initialized.
+2023-12-11 04:49:24.9914 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 04:55:20.4999 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 04:55:20.5242 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 04:55:20.5570 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 04:55:20.5886 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 04:55:20.6060 Info Configuration initialized.
+2023-12-11 04:55:21.9867 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:00:36.5444 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 05:00:36.5675 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 05:00:36.5959 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 05:00:36.6295 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:00:36.6468 Info Configuration initialized.
+2023-12-11 05:00:38.2571 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:02:41.0472 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 05:02:41.0752 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 05:02:41.1079 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 05:02:41.1534 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:02:41.1756 Info Configuration initialized.
+2023-12-11 05:02:42.8138 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:03:51.6130 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 05:03:51.6414 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 05:03:51.6751 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 05:03:51.7099 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:03:51.7291 Info Configuration initialized.
+2023-12-11 05:03:53.2141 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:12:31.9839 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 05:12:32.0114 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 05:12:32.0468 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 05:12:32.0815 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:12:32.1065 Info Configuration initialized.
+2023-12-11 05:12:33.8949 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:14:51.4783 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 05:14:51.5014 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 05:14:51.5407 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 05:14:51.5803 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:14:51.6203 Info Configuration initialized.
+2023-12-11 05:14:53.4053 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:17:13.7498 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 05:17:13.7737 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 05:17:13.8129 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 05:17:13.8438 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:17:13.8649 Info Configuration initialized.
+2023-12-11 05:17:15.8121 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:22:26.1402 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 05:22:26.1761 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 05:22:26.2086 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 05:22:26.2411 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:22:26.2616 Info Configuration initialized.
+2023-12-11 05:22:27.9881 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:23:13.4758 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 05:23:13.5057 Info Registered target NLog.Targets.ConsoleTarget(Name=logconsole)
+2023-12-11 05:23:13.5756 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.7.2287. Product version: 5.2.7+a1ef7cd83b5a6a172142a6850f0ced4e759a4b3b. GlobalAssemblyCache: False
+2023-12-11 05:23:13.6185 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config
+2023-12-11 05:23:13.6465 Info Configuration initialized.
+2023-12-11 05:23:15.1469 Info Validating config: TargetNames=logfile, logconsole, ConfigItems=25, FilePath=C:\Users\sruthims\Desktop\ContactList\ContactList.API\bin\Debug\net6.0\nlog.config

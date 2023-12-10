@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactList.Infrastructure"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactList.API", "ContactList.API\ContactList.API.csproj", "{17368CE5-5758-4211-AFE8-90FB5A7194B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactList.Test", "ContactList.Test\ContactList.Test.csproj", "{359D1C3A-FF19-4BB1-87A5-D3D02F16E024}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{17368CE5-5758-4211-AFE8-90FB5A7194B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17368CE5-5758-4211-AFE8-90FB5A7194B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17368CE5-5758-4211-AFE8-90FB5A7194B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359D1C3A-FF19-4BB1-87A5-D3D02F16E024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359D1C3A-FF19-4BB1-87A5-D3D02F16E024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359D1C3A-FF19-4BB1-87A5-D3D02F16E024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359D1C3A-FF19-4BB1-87A5-D3D02F16E024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

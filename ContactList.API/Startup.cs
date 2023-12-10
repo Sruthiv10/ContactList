@@ -42,7 +42,7 @@ public class Startup
         services.AddSwaggerGen();
         services.AddControllers();
         services.AddMemoryCache();
-        services.AddAutoMapper(typeof(Startup));    
+       // services.AddAutoMapper(typeof(Startup));    
         services.AddTransient<IContactListRepository, ContactListRepository>();
         services.AddTransient<IContactListService, ContactListService>();
         services.AddTransient<IContactListAppService, ContactListAppService>();

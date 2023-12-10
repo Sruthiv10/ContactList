@@ -35,7 +35,7 @@ namespace ContactList.API.Authentication
                 var username = credentials[0];
                 var password = credentials[1];
 
-                // TODO: Validate the credentials with your user store
+                
                 if (username != Constants.UserName || password != Constants.Password) // Replace with your validation logic
                     return AuthenticateResult.Fail("Invalid Username or Password");
 
