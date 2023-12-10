@@ -88,3 +88,25 @@ GO
     5.6. Delete contact
    
           url : https://localhost:44308/api/ContactList/{id}
+
+
+
+
+
+   Workflow:
+
+   ASP.Net core api [.Net 6] and EF core are the technical stack
+
+   Database first approcah is using
+
+   Basic authentication is implemeneted.
+
+   nlog is implemented
+
+   Generic classes and methods are used.
+
+   Unit test by xunit is implemented.
+
+   
+  
+  
