@@ -13,6 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactList.API", "ContactL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactList.Test", "ContactList.Test\ContactList.Test.csproj", "{359D1C3A-FF19-4BB1-87A5-D3D02F16E024}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DBBackup", "DBBackup", "{C229A8D8-4BB9-4CCC-81B3-049C55A4BFC2}"
+	ProjectSection(SolutionItems) = preProject
+		D:\Revamp_Backup\ContactList.BAK = D:\Revamp_Backup\ContactList.BAK
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
